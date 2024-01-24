@@ -1,0 +1,17 @@
+Index: README.md
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+># java-training-2024\r\nHello this is Abdul from pavillion\r\nHello this is Rohith from India\r\nhello this is Ajit from hyderabad
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/README.md b/README.md
+--- a/README.md	
++++ b/README.md	
+@@ -1,4 +1,4 @@
+ # java-training-2024
+ Hello this is Abdul from pavillion
+ Hello this is Rohith from India
+-hello this is Ajit from hyderabad
+\ No newline at end of file
++hello this is Ajit from hyderabad
